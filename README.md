@@ -1,2 +1,2 @@
-# sample_webstite
+# sample_website
 A sample website for Learn Enough HTML to be Dangerous
